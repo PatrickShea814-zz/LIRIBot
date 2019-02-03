@@ -20,7 +20,7 @@ To show the following output the following information in the terminal/bash wind
 
 **Command List:**
 
-**1.**  **node liri.js spotify ''**
+1.  **node liri.js spotify ''**
 
 - Artists 
 - Song Name
@@ -29,7 +29,7 @@ To show the following output the following information in the terminal/bash wind
 - Default song if no song input: Real Big
 - Default artist: Mannie Fresh
 
-**2.**  **node liri.js movie ''**
+2. **node liri.js movie ''**
 
 - Movie Title
 - Year Released
@@ -41,7 +41,7 @@ To show the following output the following information in the terminal/bash wind
 - Actors & Actresses
 - Default movie if no movie input: 'Who Am I?.'
 
-**3.**  **node liri.js do-what-it-says**
+3. **node liri.js do-what-it-says**
 
 The fs Node package takes the text contents of random.txt and uses it to call one of the LIRI commands.
 
